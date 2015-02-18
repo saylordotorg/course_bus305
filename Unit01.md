@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS305: Small Business Management"
+course_description: "A detailed introduction to the planning and operation of the small business, covering critical business planning strategies for both the manager-employee as well as the budding entrepreneur. Topics include how to write a business plan, launch a new venture, identify market opportunities, create a marketing plan, and finance a business."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Elements of Entrepreneurship** <span id="1"></span> 
 *Entrepreneurs assume the risk of creating an enterprise that will
 provide them with a return on the capital employed. In this

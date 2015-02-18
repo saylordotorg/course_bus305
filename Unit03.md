@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS305: Small Business Management"
+course_description: "A detailed introduction to the planning and operation of the small business, covering critical business planning strategies for both the manager-employee as well as the budding entrepreneur. Topics include how to write a business plan, launch a new venture, identify market opportunities, create a marketing plan, and finance a business."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The Business Plan** <span id="3"></span> 
 *A strong business plan is one of the foundations of a successful
 business. It is the tool by which a great idea becomes an

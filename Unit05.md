@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS305: Small Business Management"
+course_description: "A detailed introduction to the planning and operation of the small business, covering critical business planning strategies for both the manager-employee as well as the budding entrepreneur. Topics include how to write a business plan, launch a new venture, identify market opportunities, create a marketing plan, and finance a business."
+next: ../../../
+previous: ../Unit04
+---
 **Unit 5: Financing the New Venture** <span id="5"></span> 
 *Every entrepreneur needs money. It is imperative that you understand
 the costs of launching and maintaining a business, from start-up

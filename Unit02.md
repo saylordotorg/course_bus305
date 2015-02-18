@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS305: Small Business Management"
+course_description: "A detailed introduction to the planning and operation of the small business, covering critical business planning strategies for both the manager-employee as well as the budding entrepreneur. Topics include how to write a business plan, launch a new venture, identify market opportunities, create a marketing plan, and finance a business."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Building the Right Team** <span id="2"></span> 
 *Building an effective management team is one of the primary steps in
 launching a venture. Entrepreneurs must explore their personal strengths

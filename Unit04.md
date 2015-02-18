@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS305: Small Business Management"
+course_description: "A detailed introduction to the planning and operation of the small business, covering critical business planning strategies for both the manager-employee as well as the budding entrepreneur. Topics include how to write a business plan, launch a new venture, identify market opportunities, create a marketing plan, and finance a business."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Marketing Strategy** <span id="4"></span> 
 *This unit deals with developing marketing strategies designed to help
 you achieve your business objectives and build competitive
